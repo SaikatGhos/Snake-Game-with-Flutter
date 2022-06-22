@@ -1,5 +1,5 @@
 # Snake-Game-with-Flutter
-This is 2D Snake Game completely developed with Flutter
+This is 2D Snake Game completely developed with Flutter \n
 To install the app directly on your device follow the steps
 --1. Go to master branch
   2. Go to build folder
